@@ -1,4 +1,4 @@
 FROM almalinux:9
 ENV COUSER="docker" \
     STUDENT="Bharathi"
-CMD ["sleep","15"]
+CMD ["sleep","1000"]
